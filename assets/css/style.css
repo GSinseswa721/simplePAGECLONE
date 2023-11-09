@@ -1,0 +1,79 @@
+body{
+    background-color: whitesmoke;
+}
+.box{
+    background-color: rgb(98, 98, 229);
+    width: 250px;
+    height: 400px;
+    border-radius: 8%;
+    border-color: #db34ba;
+    border: 2px solid rgba(7, 13, 18, 0.5);
+    
+
+}
+.boxeone{
+    width: 100px;
+    height: 100px;
+    background-color: #133853;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 50px;
+
+}
+.boxe{
+    background-color: white;
+    width: 250px;
+    height: 400px;
+    border-radius: 8%;
+    border-color: #db34ba;
+    border: 2px solid rgba(7, 13, 18, 0.5);
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 200px;
+}
+div{
+    color: white;
+    padding: 20px;
+}
+#react{
+    color: red;
+}
+#Memory{
+    color: yellow;
+}
+#Verbal{
+    color: green;
+}
+#Visual{
+    color: rgb(8, 8, 121);
+}
+.login{
+    background-color: rgb(6, 6, 40);
+    width:80px;
+    height:30px;
+    border-radius: 20px;
+    text-align: center;
+
+}
+.login a{
+    color: white;
+    text-decoration: none;
+}
+.sum{
+    color: black;
+    padding-left: 20px;
+}
+.great{
+    text-align: center;
+    font-size: large;
+}
+.result{
+    text-align: center;
+}
+.num{
+    font: size 20px;
+}
